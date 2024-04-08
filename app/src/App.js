@@ -20,7 +20,7 @@ function App() {
   // const boatshedURL = "alpha.boatshed.io"
   const boatshedURL = "https://alpha.boatshed.io"
   const boatshedClientID = "6efdcda7e4c5dbfc9417094fedb6b73bc0ea8a913ac4d6aa35d144aa95952997"
-  const redirectURI = "https://alpha.boatshed.io/auth-sessions/example-callback"
+  const redirectURI = "http://localhost:1994/callback"
   const scope = "bank:account bank:balance"
 
 
